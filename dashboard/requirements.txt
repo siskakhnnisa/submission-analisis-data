@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+google-colab
+unidecode
+urllib3
